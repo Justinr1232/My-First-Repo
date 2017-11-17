@@ -1,3 +1,4 @@
+import time
 ### MAD LIBS ###
 ### Source: https://i.pinimg.com/736x/f7/7b/49/f77b492883b5eba4ad64b3ed0
 print("Write a noun")
@@ -61,3 +62,4 @@ print("It was Thanksgiving, and the scent of succulent roast " + noun1 +
       " tempted my taste buds. " " But the dish I looked foward to most was "
       "Grandma " + person1 + "'s famous " + noun9 + " pie."
       " Thanksgiving is my favorite holiday, " + body2 + " down.")
+time.sleep(100)
